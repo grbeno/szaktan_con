@@ -1,0 +1,7 @@
+__pycache__/
+
+# ignore the folder of exe-s
+output/
+
+# ignore the folder of results
+Szaktan_eredmenyek/

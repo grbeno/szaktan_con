@@ -1,0 +1,109 @@
+Id;TapEll_param;Termohelyi_kat_tapell;Lab_param_0;Lab_param_1;Minosites;Param_nev
+1;Nitrogen;1;42,100;0,42;;KA
+2;Nitrogen;1;0,2;0,1.5;igen gyenge;HUMUSZ
+3;Nitrogen;1;2.01,2.04;1.51,1.9;gyenge;HUMUSZ
+4;Nitrogen;1;2.41,3;1.91,2.5;közepes;HUMUSZ
+5;Nitrogen;1;3.01,4;2.51,3.5;jó;HUMUSZ
+6;Nitrogen;1;4.01,10;3.51,10;igen jó;HUMUSZ
+7;Nitrogen;2;38,100;0,38;;KA
+8;Nitrogen;2;0,1.5;0,1.2;igen gyenge;HUMUSZ
+9;Nitrogen;2;1.51,1.9;1.21,1.5;gyenge;HUMUSZ
+10;Nitrogen;2;1.91,2.5;1.51,2;közepes;HUMUSZ
+11;Nitrogen;2;2.51,3.5;2.01,3;jó;HUMUSZ
+12;Nitrogen;2;3.51,10;3.01,10;igen jó;HUMUSZ
+13;Nitrogen;3;50,100;0,50;;KA
+14;Nitrogen;3;0,2;0,1.6;igen gyenge;HUMUSZ
+15;Nitrogen;3;2.01,2.5;1.61,2;gyenge;HUMUSZ
+16;Nitrogen;3;2.51,3.3;2.01,2.8;közepes;HUMUSZ
+17;Nitrogen;3;3.31,4.5;2.81,4;jó;HUMUSZ
+18;Nitrogen;3;4.51,10;4.01,10;igen jó;HUMUSZ
+19;Nitrogen;4;30,38;0,30;;KA
+20;Nitrogen;4;0,0.7;0,0.4;igen gyenge;HUMUSZ
+21;Nitrogen;4;0.71,1;0.41,0.7;gyenge;HUMUSZ
+22;Nitrogen;4;1.01,1.5;0.71,1,2;közepes;HUMUSZ
+23;Nitrogen;4;1.51,2.5;1.21,2;jó;HUMUSZ
+24;Nitrogen;4;2.51,10;2.01,10;igen jó;HUMUSZ
+25;Nitrogen;5;50,100;0,50;;KA
+26;Nitrogen;5;0,1.8;0,1.4;igen gyenge;HUMUSZ
+27;Nitrogen;5;1.81,2.3;1.41,1.8;gyenge;HUMUSZ
+28;Nitrogen;5;2.31,3.1;1.81,2.6;közepes;HUMUSZ
+29;Nitrogen;5;3.11,4;2.61,3.5;jó;HUMUSZ
+30;Nitrogen;5;4.01,10;3.51,10;igen jó;HUMUSZ
+31;Nitrogen;6;42,100;0,42;;KA
+32;Nitrogen;6;0,1.3;0,0.8;igen gyenge;HUMUSZ
+33;Nitrogen;6;1.31,1.7;0.81,1.21;gyenge;HUMUSZ
+34;Nitrogen;6;1.71,2.4;1.21,1.9;közepes;HUMUSZ
+35;Nitrogen;6;2.41,3.3;1.91,2.8;jó;HUMUSZ
+36;Nitrogen;6;3.31,10;2.81,10;igen jó;HUMUSZ
+37;Foszfor;1;1,100;0,1;;MESZ
+38;Foszfor;1;0,50;0,40;igen gyenge;P2O5
+39;Foszfor;1;51,91;41,80;gyenge;P2O5
+40;Foszfor;1;91,150;81,130;közepes;P2O5
+41;Foszfor;1;151,250;131,200;jó;P2O5
+42;Foszfor;1;251,1500;201,1500;igen jó;P2O5
+43;Foszfor;2;1,100;0,1;;MESZ
+44;Foszfor;2;0,40;0,30;igen gyenge;P2O5
+45;Foszfor;2;41,70;31,60;gyenge;P2O5
+46;Foszfor;2;71,120;61,100;közepes;P2O5
+47;Foszfor;2;121,200;101,160;jó;P2O5
+48;Foszfor;2;201,1500;161,1500;igen jó;P2O5
+49;Foszfor;3;1,100;0,1;;MESZ
+50;Foszfor;3;0,40;0,30;igen gyenge;P2O5
+51;Foszfor;3;41,70;31,60;gyenge;P2O5
+52;Foszfor;3;71,110;61,100;közepes;P2O5
+53;Foszfor;3;111,180;101,150;jó;P2O5
+54;Foszfor;3;181,1500;151,1500;igen jó;P2O5
+55;Foszfor;4;1,100;0,1;;MESZ
+56;Foszfor;4;0,50;0,30;igen gyenge;P2O5
+57;Foszfor;4;51,80;31,60;gyenge;P2O5
+58;Foszfor;4;81,130;61,100;közepes;P2O5
+59;Foszfor;4;131,250;101,200;jó;P2O5
+60;Foszfor;4;251,1500;201,1500;igen jó;P2O5
+61;Foszfor;5;1,100;0,1;;MESZ
+62;Foszfor;5;0,40;0,30;igen gyenge;P2O5
+63;Foszfor;5;41,70;31,60;gyenge;P2O5
+64;Foszfor;5;71,120;61,100;közepes;P2O5
+65;Foszfor;5;121,180;101,140;jó;P2O5
+66;Foszfor;5;181,1500;141,1500;igen jó;P2O5
+67;Foszfor;6;1,100;0,1;;MESZ
+68;Foszfor;6;0,50;0,30;igen gyenge;MESZ
+69;Foszfor;6;51,80;31,60;gyenge;P2O5
+70;Foszfor;6;81,130;61,100;közepes;P2O5
+71;Foszfor;6;131,200;101,150;jó;P2O5
+72;Foszfor;6;201,1500;151,1500;igen jó;P2O5
+73;Kalium;1;42,100;0,42;;KA
+74;Kalium;1;0,100;0,80;igen gyenge;K2O
+75;Kalium;1;101,160;81,130;gyenge;K2O
+76;Kalium;1;161,240;131,200;közepes;K2O
+77;Kalium;1;241,350;201,300;jó;K2O
+78;Kalium;1;351,1500;301,1500;igen jó;K2O
+79;Kalium;2;38,100;0,38;;KA
+80;Kalium;2;0,90;0,60;igen gyenge;K2O
+81;Kalium;2;91,140;61,100;gyenge;K2O
+82;Kalium;2;141,210;101,160;közepes;K2O
+83;Kalium;2;211,300;161,250;jó;K2O
+84;Kalium;2;301,1500;251,1500;igen jó;K2O
+85;Kalium;3;50,100;0,50;;KA
+86;Kalium;3;0,150;0,120;igen gyenge;K2O
+87;Kalium;3;151,250;121,200;gyenge;K2O
+88;Kalium;3;251,380;201,330;közepes;K2O
+89;Kalium;3;381,500;331,450;jó;K2O
+90;Kalium;3;501,1500;451,1500;igen jó;K2O
+91;Kalium;4;30,38;0,30;;KA
+92;Kalium;4;0,90;0,50;igen gyenge;K2O
+93;Kalium;4;91,120;51,80;gyenge;K2O
+94;Kalium;4;121,160;81,120;közepes;K2O
+95;Kalium;4;161,220;121,180;jó;K2O
+96;Kalium;4;221,1500;181,1500;igen jó;K2O
+97;Kalium;5;50,100;0,50;;KA
+98;Kalium;5;0,200;0,150;igen gyenge;K2O
+99;Kalium;5;201,280;151,230;gyenge;K2O
+100;Kalium;5;281,400;231,330;közepes;K2O
+101;Kalium;5;401,550;331,450;jó;K2O
+102;Kalium;5;551,1500;451,1500;igen jó;K2O
+103;Kalium;6;42,100;0,42;;KA
+104;Kalium;6;0,120;0,80;igen gyenge;K2O
+105;Kalium;6;121,160;81,120;gyenge;K2O
+106;Kalium;6;161,220;121,180;közepes;K2O
+107;Kalium;6;221,300;181,250;jó;K2O
+108;Kalium;6;301,1500;251,1500;igen jó;K2O

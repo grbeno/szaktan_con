@@ -1,0 +1,371 @@
+Id;Noveny;Termohelyi_kat;KA_intv;Evszak;Nadag;Megosztas
+1;õszi búza;1;0,42;õsz;N%;70
+2;õszi búza;1;0,42;õsz;Nmax kg/ha;100
+3;õszi búza;1;0,42;tavasz;N%;30
+4;õszi búza;1;0,42;õsz;P,K%;100
+5;õszi búza;1;0,42;tavasz;P,K%;-
+6;õszi búza;1;42,100;õsz;N%;80
+7;õszi búza;1;42,100;õsz;Nmax kg/ha;100
+8;õszi búza;1;42,100;tavasz;N%;20
+9;õszi búza;1;42,100;õsz;P,K%;100
+10;õszi búza;1;42,100;tavasz;P,K%;-
+11;õszi búza;2;0,38;õsz;N%;60
+12;õszi búza;2;0,38;õsz;Nmax kg/ha;90
+13;õszi búza;2;0,38;tavasz;N%;40
+14;õszi búza;2;0,38;õsz;P,K%;100
+15;õszi búza;2;0,38;tavasz;P,K%;-
+16;õszi búza;2;38,100;õsz;N%;70
+17;õszi búza;2;38,100;õsz;Nmax kg/ha;90
+18;õszi búza;2;38,100;tavasz;N%;30
+19;õszi búza;2;38,100;õsz;P,K%;100
+20;õszi búza;2;38,100;tavasz;P,K%;-
+21;õszi búza;3;0,50;õsz;N%;75
+22;õszi búza;3;0,50;õsz;Nmax kg/ha;100
+23;õszi búza;3;0,50;tavasz;N%;25
+24;õszi búza;3;0,50;õsz;P,K%;100
+25;õszi búza;3;0,50;tavasz;P,K%;-
+26;õszi búza;3;50,100;õsz;N%;75
+27;õszi búza;3;50,100;õsz;Nmax kg/ha;100
+28;õszi búza;3;50,100;tavasz;N%;25
+29;õszi búza;3;50,100;õsz;P,K%;100
+30;õszi búza;3;50,100;tavasz;P,K%;-
+31;õszi búza;4;0,30;õsz;N%;40
+32;õszi búza;4;0,30;õsz;Nmax kg/ha;80
+33;õszi búza;4;0,30;tavasz;N%;60
+34;õszi búza;4;0,30;õsz;P,K%;80
+35;õszi búza;4;0,30;tavasz;P,K%;20
+36;õszi búza;4;30,38;õsz;N%;50
+37;õszi búza;4;30,38;õsz;Nmax kg/ha;80
+38;õszi búza;4;30,38;tavasz;N%;50
+39;õszi búza;4;30,38;õsz;P,K%;80
+40;õszi búza;4;30,38;tavasz;P,K%;20
+41;õszi búza;5;0,50;õsz;N%;75
+42;õszi búza;5;0,50;õsz;Nmax kg/ha;90
+43;õszi búza;5;0,50;tavasz;N%;25
+44;õszi búza;5;0,50;õsz;P,K%;100
+45;õszi búza;5;0,50;tavasz;P,K%;-
+46;õszi búza;5;50,100;õsz;N%;75
+47;õszi búza;5;50,100;õsz;Nmax kg/ha;90
+48;õszi búza;5;50,100;tavasz;N%;25
+49;õszi búza;5;50,100;õsz;P,K%;100
+50;õszi búza;5;50,100;tavasz;P,K%;-
+51;õszi búza;6;0,42;õsz;N%;50
+52;õszi búza;6;0,42;õsz;Nmax kg/ha;70
+53;õszi búza;6;0,42;tavasz;N%;50
+54;õszi búza;6;0,42;õsz;P,K%;80
+55;õszi búza;6;0,42;tavasz;P,K%;20
+56;õszi búza;6;42,100;õsz;N%;60
+57;õszi búza;6;42,100;õsz;Nmax kg/ha;70
+58;õszi búza;6;42,100;tavasz;N%;40
+59;õszi búza;6;42,100;õsz;P,K%;80
+60;õszi búza;6;42,100;tavasz;P,K%;20
+61;õszi árpa;1;0,42;õsz;N%;70
+62;õszi árpa;1;0,42;õsz;Nmax kg/ha;80
+63;õszi árpa;1;0,42;tavasz;N%;30
+64;õszi árpa;1;0,42;õsz;P,K%;100
+65;õszi árpa;1;0,42;tavasz;P,K%;-
+66;õszi árpa;1;42,100;õsz;N%;80
+67;õszi árpa;1;42,100;õsz;Nmax kg/ha;80
+68;õszi árpa;1;42,100;tavasz;N%;20
+69;õszi árpa;1;42,100;õsz;P,K%;100
+70;õszi árpa;1;42,100;tavasz;P,K%;-
+71;õszi árpa;2;0,38;õsz;N%;70
+72;õszi árpa;2;0,38;õsz;Nmax kg/ha;80
+73;õszi árpa;2;0,38;tavasz;N%;30
+74;õszi árpa;2;0,38;õsz;P,K%;100
+75;õszi árpa;2;0,38;tavasz;P,K%;-
+76;õszi árpa;2;38,100;õsz;N%;80
+77;õszi árpa;2;38,100;õsz;Nmax kg/ha;80
+78;õszi árpa;2;38,100;tavasz;N%;20
+79;õszi árpa;2;38,100;õsz;P,K%;100
+80;õszi árpa;2;38,100;tavasz;P,K%;-
+81;õszi árpa;3;0,50;õsz;N%;75
+82;õszi árpa;3;0,50;õsz;Nmax kg/ha;80
+83;õszi árpa;3;0,50;tavasz;N%;25
+84;õszi árpa;3;0,50;õsz;P,K%;100
+85;õszi árpa;3;0,50;tavasz;P,K%;-
+86;õszi árpa;3;50,100;õsz;N%;75
+87;õszi árpa;3;50,100;õsz;Nmax kg/ha;80
+88;õszi árpa;3;50,100;tavasz;N%;25
+89;õszi árpa;3;50,100;õsz;P,K%;100
+90;õszi árpa;3;50,100;tavasz;P,K%;-
+91;õszi árpa;4;0,30;õsz;N%;50
+92;õszi árpa;4;0,30;õsz;Nmax kg/ha;70
+93;õszi árpa;4;0,30;tavasz;N%;50
+94;õszi árpa;4;0,30;õsz;P,K%;100
+95;õszi árpa;4;0,30;tavasz;P,K%;-
+96;õszi árpa;4;30,38;õsz;N%;60
+97;õszi árpa;4;30,38;õsz;Nmax kg/ha;70
+98;õszi árpa;4;30,38;tavasz;N%;40
+99;õszi árpa;4;30,38;õsz;P,K%;100
+100;õszi árpa;4;30,38;tavasz;P,K%;-
+101;õszi árpa;5;0,50;õsz;N%;80
+102;õszi árpa;5;0,50;õsz;Nmax kg/ha;80
+103;õszi árpa;5;0,50;tavasz;N%;20
+104;õszi árpa;5;0,50;õsz;P,K%;100
+105;õszi árpa;5;0,50;tavasz;P,K%;-
+106;õszi árpa;5;50,100;õsz;N%;80
+107;õszi árpa;5;50,100;õsz;Nmax kg/ha;80
+108;õszi árpa;5;50,100;tavasz;N%;20
+109;õszi árpa;5;50,100;õsz;P,K%;100
+110;õszi árpa;5;50,100;tavasz;P,K%;-
+111;õszi árpa;6;0,42;õsz;N%;50
+112;õszi árpa;6;0,42;õsz;Nmax kg/ha;70
+113;õszi árpa;6;0,42;tavasz;N%;50
+114;õszi árpa;6;0,42;õsz;P,K%;100
+115;õszi árpa;6;0,42;tavasz;P,K%;-
+116;õszi árpa;6;42,100;õsz;N%;60
+117;õszi árpa;6;42,100;õsz;Nmax kg/ha;70
+118;õszi árpa;6;42,100;tavasz;N%;40
+119;õszi árpa;6;42,100;õsz;P,K%;100
+120;õszi árpa;6;42,100;tavasz;P,K%;-
+121;tavaszi árpa;1;0,42;õsz;N%;-
+122;tavaszi árpa;1;0,42;õsz;Nmax kg/ha;-
+123;tavaszi árpa;1;0,42;tavasz;N%;100
+124;tavaszi árpa;1;0,42;õsz;P,K%;100
+125;tavaszi árpa;1;0,42;tavasz;P,K%;-
+126;tavaszi árpa;1;42,100;õsz;N%;-
+127;tavaszi árpa;1;42,100;õsz;Nmax kg/ha;-
+128;tavaszi árpa;1;42,100;tavasz;N%;100
+129;tavaszi árpa;1;42,100;õsz;P,K%;100
+130;tavaszi árpa;1;42,100;tavasz;P,K%;-
+131;tavaszi árpa;2;0,38;õsz;N%;-
+132;tavaszi árpa;2;0,38;õsz;Nmax kg/ha;-
+133;tavaszi árpa;2;0,38;tavasz;N%;100
+134;tavaszi árpa;2;0,38;õsz;P,K%;100
+135;tavaszi árpa;2;0,38;tavasz;P,K%;-
+136;tavaszi árpa;2;38,100;õsz;N%;-
+137;tavaszi árpa;2;38,100;õsz;Nmax kg/ha;-
+138;tavaszi árpa;2;38,100;tavasz;N%;100
+139;tavaszi árpa;2;38,100;õsz;P,K%;100
+140;tavaszi árpa;2;38,100;tavasz;P,K%;-
+141;tavaszi árpa;6;0,42;õsz;N%;-
+142;tavaszi árpa;6;0,42;õsz;Nmax kg/ha;-
+143;tavaszi árpa;6;0,42;tavasz;N%;100
+144;tavaszi árpa;6;0,42;õsz;P,K%;75
+145;tavaszi árpa;6;0,42;tavasz;P,K%;25
+146;tavaszi árpa;6;42,100;õsz;N%;-
+147;tavaszi árpa;6;42,100;õsz;Nmax kg/ha;-
+148;tavaszi árpa;6;42,100;tavasz;N%;100
+149;tavaszi árpa;6;42,100;õsz;P,K%;75
+150;tavaszi árpa;6;42,100;tavasz;P,K%;25
+151;rozs;4;0,30;õsz;N%;40
+152;rozs;4;0,30;õsz;Nmax kg/ha;50
+153;rozs;4;0,30;tavasz;N%;60
+154;rozs;4;0,30;õsz;P,K%;100
+155;rozs;4;0,30;tavasz;P,K%;-
+156;rozs;4;30,38;õsz;N%;50
+157;rozs;4;30,38;õsz;Nmax kg/ha;50
+158;rozs;4;30,38;tavasz;N%;50
+159;rozs;4;30,38;õsz;P,K%;100
+160;rozs;4;30,38;tavasz;P,K%;-
+161;rozs;6;0,42;õsz;N%;60
+162;rozs;6;0,42;õsz;Nmax kg/ha;60
+163;rozs;6;0,42;tavasz;N%;40
+164;rozs;6;0,42;õsz;P,K%;100
+165;rozs;6;0,42;tavasz;P,K%;-
+166;rozs;6;42,100;õsz;N%;70
+167;rozs;6;42,100;õsz;Nmax kg/ha;60
+168;rozs;6;42,100;tavasz;N%;30
+169;rozs;6;42,100;õsz;P,K%;100
+170;rozs;6;42,100;tavasz;P,K%;-
+171;kukorica;1;0,42;õsz;N%;-
+172;kukorica;1;0,42;õsz;Nmax kg/ha;-
+173;kukorica;1;0,42;tavasz;N%;100
+174;kukorica;1;0,42;õsz;P,K%;100
+175;kukorica;1;0,42;tavasz;P,K%;-
+176;kukorica;1;42,100;õsz;N%;-
+177;kukorica;1;42,100;õsz;Nmax kg/ha;-
+178;kukorica;1;42,100;tavasz;N%;100
+179;kukorica;1;42,100;õsz;P,K%;100
+180;kukorica;1;42,100;tavasz;P,K%;-
+181;kukorica;2;0,38;õsz;N%;-
+182;kukorica;2;0,38;õsz;Nmax kg/ha;-
+183;kukorica;2;0,38;tavasz;N%;100
+184;kukorica;2;0,38;õsz;P,K%;100
+185;kukorica;2;0,38;tavasz;P,K%;-
+186;kukorica;2;38,100;õsz;N%;-
+187;kukorica;2;38,100;õsz;Nmax kg/ha;-
+188;kukorica;2;38,100;tavasz;N%;100
+189;kukorica;2;38,100;õsz;P,K%;100
+190;kukorica;2;38,100;tavasz;P,K%;-
+191;kukorica;3;0,50;õsz;N%;-
+192;kukorica;3;0,50;õsz;Nmax kg/ha;-
+193;kukorica;3;0,50;tavasz;N%;100
+194;kukorica;3;0,50;õsz;P,K%;100
+195;kukorica;3;0,50;tavasz;P,K%;-
+196;kukorica;3;50,100;õsz;N%;-
+197;kukorica;3;50,100;õsz;Nmax kg/ha;-
+198;kukorica;3;50,100;tavasz;N%;100
+199;kukorica;3;50,100;õsz;P,K%;100
+200;kukorica;3;50,100;tavasz;P,K%;-
+201;kukorica;4;0,30;õsz;N%;-
+202;kukorica;4;0,30;õsz;Nmax kg/ha;-
+203;kukorica;4;0,30;tavasz;N%;-
+204;kukorica;4;0,30;õsz;P,K%;-
+205;kukorica;4;0,30;tavasz;P,K%;-
+206;kukorica;4;30,38;õsz;N%;-
+207;kukorica;4;30,38;õsz;Nmax kg/ha;-
+208;kukorica;4;30,38;tavasz;N%;100
+209;kukorica;4;30,38;õsz;P,K%;50
+210;kukorica;4;30,38;tavasz;P,K%;50
+211;kukorica;5;0,50;õsz;N%;-
+212;kukorica;5;0,50;õsz;Nmax kg/ha;-
+213;kukorica;5;0,50;tavasz;N%;60
+214;kukorica;5;0,50;õsz;P,K%;100
+215;kukorica;5;0,50;tavasz;P,K%;-
+216;kukorica;5;50,100;õsz;N%;-
+217;kukorica;5;50,100;õsz;Nmax kg/ha;-
+218;kukorica;5;50,100;tavasz;N%;100
+219;kukorica;5;50,100;õsz;P,K%;100
+220;kukorica;5;50,100;tavasz;P,K%;-
+221;kukorica;6;0,42;õsz;N%;-
+222;kukorica;6;0,42;õsz;Nmax kg/ha;-
+223;kukorica;6;0,42;tavasz;N%;100
+224;kukorica;6;0,42;õsz;P,K%;50
+225;kukorica;6;0,42;tavasz;P,K%;50
+226;kukorica;6;42,100;õsz;N%;-
+227;kukorica;6;42,100;õsz;Nmax kg/ha;-
+228;kukorica;6;42,100;tavasz;N%;100
+229;kukorica;6;42,100;õsz;P,K%;50
+230;kukorica;6;42,100;tavasz;P,K%;50
+231;szója;1;0,42;õsz;N%;-
+232;szója;1;0,42;õsz;Nmax kg/ha;-
+233;szója;1;0,42;tavasz;N%;100
+234;szója;1;0,42;õsz;P,K%;100
+235;szója;1;0,42;tavasz;P,K%;-
+236;szója;1;42,100;õsz;N%;-
+237;szója;1;42,100;õsz;Nmax kg/ha;-
+238;szója;1;42,100;tavasz;N%;100
+239;szója;1;42,100;õsz;P,K%;100
+240;szója;1;42,100;tavasz;P,K%;-
+241;szója;2;0,38;õsz;N%;-
+242;szója;2;0,38;õsz;Nmax kg/ha;-
+243;szója;2;0,38;tavasz;N%;100
+244;szója;2;0,38;õsz;P,K%;100
+245;szója;2;0,38;tavasz;P,K%;-
+246;szója;2;38,100;õsz;N%;-
+247;szója;2;38,100;õsz;Nmax kg/ha;-
+248;szója;2;38,100;tavasz;N%;100
+249;szója;2;38,100;õsz;P,K%;100
+250;szója;2;38,100;tavasz;P,K%;-
+251;szója;3;0,50;õsz;N%;-
+252;szója;3;0,50;õsz;Nmax kg/ha;-
+253;szója;3;0,50;tavasz;N%;100
+254;szója;3;0,50;õsz;P,K%;100
+255;szója;3;0,50;tavasz;P,K%;-
+256;szója;3;50,100;õsz;N%;-
+257;szója;3;50,100;õsz;Nmax kg/ha;-
+258;szója;3;50,100;tavasz;N%;-
+259;szója;3;50,100;õsz;P,K%;-
+260;szója;3;50,100;tavasz;P,K%;-
+261;napraforgó;1;0,42;õsz;N%;-
+262;napraforgó;1;0,42;õsz;Nmax kg/ha;-
+263;napraforgó;1;0,42;tavasz;N%;60
+264;napraforgó;1;0,42;õsz;P,K%;100
+265;napraforgó;1;0,42;tavasz;P,K%;-
+266;napraforgó;1;42,100;õsz;N%;-
+267;napraforgó;1;42,100;õsz;Nmax kg/ha;-
+268;napraforgó;1;42,100;tavasz;N%;100
+269;napraforgó;1;42,100;õsz;P,K%;100
+270;napraforgó;1;42,100;tavasz;P,K%;-
+271;napraforgó;2;0,38;õsz;N%;-
+272;napraforgó;2;0,38;õsz;Nmax kg/ha;-
+273;napraforgó;2;0,38;tavasz;N%;100
+274;napraforgó;2;0,38;õsz;P,K%;100
+275;napraforgó;2;0,38;tavasz;P,K%;-
+276;napraforgó;2;38,100;õsz;N%;-
+277;napraforgó;2;38,100;õsz;Nmax kg/ha;-
+278;napraforgó;2;38,100;tavasz;N%;100
+279;napraforgó;2;38,100;õsz;P,K%;100
+280;napraforgó;2;38,100;tavasz;P,K%;-
+281;napraforgó;3;0,50;õsz;N%;-
+282;napraforgó;3;0,50;õsz;Nmax kg/ha;-
+283;napraforgó;3;0,50;tavasz;N%;100
+284;napraforgó;3;0,50;õsz;P,K%;100
+285;napraforgó;3;0,50;tavasz;P,K%;-
+286;napraforgó;3;50,100;õsz;N%;-
+287;napraforgó;3;50,100;õsz;Nmax kg/ha;-
+288;napraforgó;3;50,100;tavasz;N%;100
+289;napraforgó;3;50,100;õsz;P,K%;100
+290;napraforgó;3;50,100;tavasz;P,K%;-
+291;napraforgó;4;0,30;õsz;N%;-
+292;napraforgó;4;0,30;õsz;Nmax kg/ha;-
+293;napraforgó;4;0,30;tavasz;N%;100
+294;napraforgó;4;0,30;õsz;P,K%;-
+295;napraforgó;4;0,30;tavasz;P,K%;100
+296;napraforgó;4;30,38;õsz;N%;-
+297;napraforgó;4;30,38;õsz;Nmax kg/ha;-
+298;napraforgó;4;30,38;tavasz;N%;100
+299;napraforgó;4;30,38;õsz;P,K%;50-100
+300;napraforgó;4;30,38;tavasz;P,K%;0-50
+301;napraforgó;5;0,50;õsz;N%;-
+302;napraforgó;5;0,50;õsz;Nmax kg/ha;-
+303;napraforgó;5;0,50;tavasz;N%;100
+304;napraforgó;5;0,50;õsz;P,K%;100
+305;napraforgó;5;0,50;tavasz;P,K%;-
+306;napraforgó;5;50,100;õsz;N%;-
+307;napraforgó;5;50,100;õsz;Nmax kg/ha;-
+308;napraforgó;5;50,100;tavasz;N%;100
+309;napraforgó;5;50,100;õsz;P,K%;100
+310;napraforgó;5;50,100;tavasz;P,K%;-
+311;napraforgó;6;0,42;õsz;N%;-
+312;napraforgó;6;0,42;õsz;Nmax kg/ha;-
+313;napraforgó;6;0,42;tavasz;N%;100
+314;napraforgó;6;0,42;õsz;P,K%;100
+315;napraforgó;6;0,42;tavasz;P,K%;-
+316;napraforgó;6;42,100;õsz;N%;-
+317;napraforgó;6;42,100;õsz;Nmax kg/ha;-
+318;napraforgó;6;42,100;tavasz;N%;100
+319;napraforgó;6;42,100;õsz;P,K%;100
+320;napraforgó;6;42,100;tavasz;P,K%;-
+321;repce;1;0,42;õsz;N%;20
+322;repce;1;0,42;õsz;Nmax kg/ha;30
+323;repce;1;0,42;tavasz;N%;80
+324;repce;1;0,42;õsz;P,K%;100
+325;repce;1;0,42;tavasz;P,K%;-
+326;repce;1;42,100;õsz;N%;30
+327;repce;1;42,100;õsz;Nmax kg/ha;30
+328;repce;1;42,100;tavasz;N%;70
+329;repce;1;42,100;õsz;P,K%;100
+330;repce;1;42,100;tavasz;P,K%;-
+331;repce;2;0,38;õsz;N%;20
+332;repce;2;0,38;õsz;Nmax kg/ha;30
+333;repce;2;0,38;tavasz;N%;80
+334;repce;2;0,38;õsz;P,K%;100
+335;repce;2;0,38;tavasz;P,K%;-
+336;repce;2;38,100;õsz;N%;30
+337;repce;2;38,100;õsz;Nmax kg/ha;30
+338;repce;2;38,100;tavasz;N%;70
+339;repce;2;38,100;õsz;P,K%;100
+340;repce;2;38,100;tavasz;P,K%;-
+341;repce;3;0,50;õsz;N%;25
+342;repce;3;0,50;õsz;Nmax kg/ha;30
+343;repce;3;0,50;tavasz;N%;75
+344;repce;3;0,50;õsz;P,K%;100
+345;repce;3;0,50;tavasz;P,K%;-
+346;repce;3;50,100;õsz;N%;25
+347;repce;3;50,100;õsz;Nmax kg/ha;30
+348;repce;3;50,100;tavasz;N%;75
+349;repce;3;50,100;õsz;P,K%;100
+350;repce;3;50,100;tavasz;P,K%;-
+351;repce;5;0,50;õsz;N%;25
+352;repce;5;0,50;õsz;Nmax kg/ha;30
+353;repce;5;0,50;tavasz;N%;75
+354;repce;5;0,50;õsz;P,K%;100
+355;repce;5;0,50;tavasz;P,K%;-
+356;repce;5;50,100;õsz;N%;25
+357;repce;5;50,100;õsz;Nmax kg/ha;30
+358;repce;5;50,100;tavasz;N%;75
+359;repce;5;50,100;õsz;P,K%;100
+360;repce;5;50,100;tavasz;P,K%;-
+361;repce;6;0,42;õsz;N%;20
+362;repce;6;0,42;õsz;Nmax kg/ha;30
+363;repce;6;0,42;tavasz;N%;80
+364;repce;6;0,42;õsz;P,K%;100
+365;repce;6;0,42;tavasz;P,K%;-
+366;repce;6;42,100;õsz;N%;30
+367;repce;6;42,100;õsz;Nmax kg/ha;30
+368;repce;6;42,100;tavasz;N%;70
+369;repce;6;42,100;õsz;P,K%;100
+370;repce;6;42,100;tavasz;P,K%;-

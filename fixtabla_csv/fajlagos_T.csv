@@ -1,0 +1,969 @@
+1;õszi búza;Nitrogen;1;igen gyenge;3,3
+2;õszi búza;Nitrogen;1;gyenge;3
+3;õszi búza;Nitrogen;1;közepes;2,7
+4;õszi búza;Nitrogen;1;jó;2
+5;õszi búza;Nitrogen;1;igen jó;1
+6;õszi búza;Nitrogen;2;igen gyenge;3,3
+7;õszi búza;Nitrogen;2;gyenge;3,1
+8;õszi búza;Nitrogen;2;közepes;2,8
+9;õszi búza;Nitrogen;2;jó;2,3
+10;õszi búza;Nitrogen;2;igen jó;1,2
+11;õszi búza;Nitrogen;3;igen gyenge;3,3
+12;õszi búza;Nitrogen;3;gyenge;3,1
+13;õszi búza;Nitrogen;3;közepes;2,85
+14;õszi búza;Nitrogen;3;jó;2,5
+15;õszi búza;Nitrogen;3;igen jó;1,2
+16;õszi búza;Nitrogen;4;igen gyenge;3,6
+17;õszi búza;Nitrogen;4;gyenge;3,3
+18;õszi búza;Nitrogen;4;közepes;3
+19;õszi búza;Nitrogen;4;jó;2,7
+20;õszi búza;Nitrogen;4;igen jó;1,5
+21;õszi búza;Nitrogen;5;igen gyenge;3,4
+22;õszi búza;Nitrogen;5;gyenge;3,2
+23;õszi búza;Nitrogen;5;közepes;2,9
+24;õszi búza;Nitrogen;5;jó;2,5
+25;õszi búza;Nitrogen;5;igen jó;1,3
+26;õszi búza;Nitrogen;6;igen gyenge;3,6
+27;õszi búza;Nitrogen;6;gyenge;3,3
+28;õszi búza;Nitrogen;6;közepes;3
+29;õszi búza;Nitrogen;6;jó;2,7
+30;õszi búza;Nitrogen;6;igen jó;1,5
+31;õszi búza;Foszfor;1;igen gyenge;2,7
+32;õszi búza;Foszfor;1;gyenge;2,3
+33;õszi búza;Foszfor;1;közepes;1,9
+34;õszi búza;Foszfor;1;jó;1,4
+35;õszi búza;Foszfor;1;igen jó;0,6
+36;õszi búza;Foszfor;2;igen gyenge;3
+37;õszi búza;Foszfor;2;gyenge;2,5
+38;õszi búza;Foszfor;2;közepes;2
+39;õszi búza;Foszfor;2;jó;1,5
+40;õszi búza;Foszfor;2;igen jó;0,7
+41;õszi búza;Foszfor;3;igen gyenge;3
+42;õszi búza;Foszfor;3;gyenge;2,6
+43;õszi búza;Foszfor;3;közepes;2,2
+44;õszi búza;Foszfor;3;jó;1,7
+45;õszi búza;Foszfor;3;igen jó;0,7
+46;õszi búza;Foszfor;4;igen gyenge;3,2
+47;õszi búza;Foszfor;4;gyenge;2,8
+48;õszi búza;Foszfor;4;közepes;2,3
+49;õszi búza;Foszfor;4;jó;1,6
+50;õszi búza;Foszfor;4;igen jó;0,5
+51;õszi búza;Foszfor;5;igen gyenge;2,9
+52;õszi búza;Foszfor;5;gyenge;2,7
+53;õszi búza;Foszfor;5;közepes;2,35
+54;õszi búza;Foszfor;5;jó;1,8
+55;õszi búza;Foszfor;5;igen jó;0,7
+56;õszi búza;Foszfor;6;igen gyenge;2,8
+57;õszi búza;Foszfor;6;gyenge;2,5
+58;õszi búza;Foszfor;6;közepes;2,2
+59;õszi búza;Foszfor;6;jó;1,6
+60;õszi búza;Foszfor;6;igen jó;0,6
+61;õszi búza;Kalium;1;igen gyenge;2,2
+62;õszi búza;Kalium;1;gyenge;2
+63;õszi búza;Kalium;1;közepes;1,7
+64;õszi búza;Kalium;1;jó;1,2
+65;õszi búza;Kalium;1;igen jó;0,5
+66;õszi búza;Kalium;2;igen gyenge;2,6
+67;õszi búza;Kalium;2;gyenge;2,2
+68;õszi búza;Kalium;2;közepes;1,8
+69;õszi búza;Kalium;2;jó;1,3
+70;õszi búza;Kalium;2;igen jó;0,6
+71;õszi búza;Kalium;3;igen gyenge;2,3
+72;õszi búza;Kalium;3;gyenge;2
+73;õszi búza;Kalium;3;közepes;1,6
+74;õszi búza;Kalium;3;jó;1,1
+75;õszi búza;Kalium;3;igen jó;0,4
+76;õszi búza;Kalium;4;igen gyenge;2,7
+77;õszi búza;Kalium;4;gyenge;2,5
+78;õszi búza;Kalium;4;közepes;2,2
+79;õszi búza;Kalium;4;jó;1,6
+80;õszi búza;Kalium;4;igen jó;0,5
+81;õszi búza;Kalium;5;igen gyenge;2,4
+82;õszi búza;Kalium;5;gyenge;2,2
+83;õszi búza;Kalium;5;közepes;1,9
+84;õszi búza;Kalium;5;jó;1,4
+85;õszi búza;Kalium;5;igen jó;0,5
+86;õszi búza;Kalium;6;igen gyenge;2,4
+87;õszi búza;Kalium;6;gyenge;2,2
+88;õszi búza;Kalium;6;közepes;2
+89;õszi búza;Kalium;6;jó;1,6
+90;õszi búza;Kalium;6;igen jó;0,6
+91;õszi árpa;Nitrogen;1;igen gyenge;3
+92;õszi árpa;Nitrogen;1;gyenge;2,8
+93;õszi árpa;Nitrogen;1;közepes;2,4
+94;õszi árpa;Nitrogen;1;jó;1,5
+95;õszi árpa;Nitrogen;1;igen jó;0,8
+96;õszi árpa;Nitrogen;2;igen gyenge;3,2
+97;õszi árpa;Nitrogen;2;gyenge;3
+98;õszi árpa;Nitrogen;2;közepes;2,5
+99;õszi árpa;Nitrogen;2;jó;1,8
+100;õszi árpa;Nitrogen;2;igen jó;1
+101;õszi árpa;Nitrogen;3;igen gyenge;3,3
+102;õszi árpa;Nitrogen;3;gyenge;3
+103;õszi árpa;Nitrogen;3;közepes;2,6
+104;õszi árpa;Nitrogen;3;jó;2,2
+105;õszi árpa;Nitrogen;3;igen jó;1,2
+106;õszi árpa;Nitrogen;4;igen gyenge;3,4
+107;õszi árpa;Nitrogen;4;gyenge;3,1
+108;õszi árpa;Nitrogen;4;közepes;2,8
+109;õszi árpa;Nitrogen;4;jó;2,4
+110;õszi árpa;Nitrogen;4;igen jó;1,5
+111;õszi árpa;Nitrogen;5;igen gyenge;3,5
+112;õszi árpa;Nitrogen;5;gyenge;3,2
+113;õszi árpa;Nitrogen;5;közepes;3
+114;õszi árpa;Nitrogen;5;jó;2,5
+115;õszi árpa;Nitrogen;5;igen jó;1,3
+116;õszi árpa;Nitrogen;6;igen gyenge;3,3
+117;õszi árpa;Nitrogen;6;gyenge;3
+118;õszi árpa;Nitrogen;6;közepes;2,8
+119;õszi árpa;Nitrogen;6;jó;2,4
+120;õszi árpa;Nitrogen;6;igen jó;1,5
+121;õszi árpa;Foszfor;1;igen gyenge;2,7
+122;õszi árpa;Foszfor;1;gyenge;2,4
+123;õszi árpa;Foszfor;1;közepes;2
+124;õszi árpa;Foszfor;1;jó;1,4
+125;õszi árpa;Foszfor;1;igen jó;0,6
+126;õszi árpa;Foszfor;2;igen gyenge;3
+127;õszi árpa;Foszfor;2;gyenge;2,6
+128;õszi árpa;Foszfor;2;közepes;2,1
+129;õszi árpa;Foszfor;2;jó;1,6
+130;õszi árpa;Foszfor;2;igen jó;0,8
+131;õszi árpa;Foszfor;3;igen gyenge;3
+132;õszi árpa;Foszfor;3;gyenge;2,7
+133;õszi árpa;Foszfor;3;közepes;2,3
+134;õszi árpa;Foszfor;3;jó;1,8
+135;õszi árpa;Foszfor;3;igen jó;0,8
+136;õszi árpa;Foszfor;4;igen gyenge;2,8
+137;õszi árpa;Foszfor;4;gyenge;2,5
+138;õszi árpa;Foszfor;4;közepes;2,2
+139;õszi árpa;Foszfor;4;jó;1,8
+140;õszi árpa;Foszfor;4;igen jó;1
+141;õszi árpa;Foszfor;5;igen gyenge;3,2
+142;õszi árpa;Foszfor;5;gyenge;2,8
+143;õszi árpa;Foszfor;5;közepes;2,4
+144;õszi árpa;Foszfor;5;jó;2
+145;õszi árpa;Foszfor;5;igen jó;0,8
+146;õszi árpa;Foszfor;6;igen gyenge;3
+147;õszi árpa;Foszfor;6;gyenge;2,5
+148;õszi árpa;Foszfor;6;közepes;2,2
+149;õszi árpa;Foszfor;6;jó;1,6
+150;õszi árpa;Foszfor;6;igen jó;0,7
+151;õszi árpa;Kalium;1;igen gyenge;3,4
+152;õszi árpa;Kalium;1;gyenge;3
+153;õszi árpa;Kalium;1;közepes;2,5
+154;õszi árpa;Kalium;1;jó;1,8
+155;õszi árpa;Kalium;1;igen jó;1
+156;õszi árpa;Kalium;2;igen gyenge;3,5
+157;õszi árpa;Kalium;2;gyenge;3,1
+158;õszi árpa;Kalium;2;közepes;2,7
+159;õszi árpa;Kalium;2;jó;2
+160;õszi árpa;Kalium;2;igen jó;1,2
+161;õszi árpa;Kalium;3;igen gyenge;3,3
+162;õszi árpa;Kalium;3;gyenge;2,9
+163;õszi árpa;Kalium;3;közepes;2,4
+164;õszi árpa;Kalium;3;jó;1,5
+165;õszi árpa;Kalium;3;igen jó;0,8
+166;õszi árpa;Kalium;4;igen gyenge;3,6
+167;õszi árpa;Kalium;4;gyenge;3,3
+168;õszi árpa;Kalium;4;közepes;2,9
+169;õszi árpa;Kalium;4;jó;2,1
+170;õszi árpa;Kalium;4;igen jó;1,3
+171;õszi árpa;Kalium;5;igen gyenge;3,5
+172;õszi árpa;Kalium;5;gyenge;3,1
+173;õszi árpa;Kalium;5;közepes;2,6
+174;õszi árpa;Kalium;5;jó;1,8
+175;õszi árpa;Kalium;5;igen jó;0,8
+176;õszi árpa;Kalium;6;igen gyenge;3,4
+177;õszi árpa;Kalium;6;gyenge;3,2
+178;õszi árpa;Kalium;6;közepes;2,8
+179;õszi árpa;Kalium;6;jó;2
+180;õszi árpa;Kalium;6;igen jó;1,1
+181;tavaszi árpa;Nitrogen;1;igen gyenge;2
+182;tavaszi árpa;Nitrogen;1;gyenge;1,8
+183;tavaszi árpa;Nitrogen;1;közepes;1,5
+184;tavaszi árpa;Nitrogen;1;jó;1
+185;tavaszi árpa;Nitrogen;1;igen jó;0,7
+186;tavaszi árpa;Nitrogen;2;igen gyenge;2,4
+187;tavaszi árpa;Nitrogen;2;gyenge;2,3
+188;tavaszi árpa;Nitrogen;2;közepes;2
+189;tavaszi árpa;Nitrogen;2;jó;1,5
+190;tavaszi árpa;Nitrogen;2;igen jó;1
+191;tavaszi árpa;Nitrogen;6;közepes;2,1
+192;tavaszi árpa;Nitrogen;6;jó;1,8
+193;tavaszi árpa;Nitrogen;6;igen jó;1,4
+194;tavaszi árpa;Foszfor;1;igen gyenge;2,6
+195;tavaszi árpa;Foszfor;1;gyenge;2,3
+196;tavaszi árpa;Foszfor;1;közepes;2
+197;tavaszi árpa;Foszfor;1;jó;1,6
+198;tavaszi árpa;Foszfor;1;igen jó;1,2
+199;tavaszi árpa;Foszfor;2;igen gyenge;2,8
+200;tavaszi árpa;Foszfor;2;gyenge;2,6
+201;tavaszi árpa;Foszfor;2;közepes;2,4
+202;tavaszi árpa;Foszfor;2;jó;2
+203;tavaszi árpa;Foszfor;2;igen jó;1,4
+204;tavaszi árpa;Foszfor;6;közepes;2,8
+205;tavaszi árpa;Foszfor;6;jó;2,4
+206;tavaszi árpa;Foszfor;6;igen jó;2
+207;tavaszi árpa;Kalium;1;igen gyenge;3,4
+208;tavaszi árpa;Kalium;1;gyenge;3,2
+209;tavaszi árpa;Kalium;1;közepes;3
+210;tavaszi árpa;Kalium;1;jó;2,4
+211;tavaszi árpa;Kalium;1;igen jó;1,5
+212;tavaszi árpa;Kalium;2;igen gyenge;3,7
+213;tavaszi árpa;Kalium;2;gyenge;3,5
+214;tavaszi árpa;Kalium;2;közepes;3,2
+215;tavaszi árpa;Kalium;2;jó;2,8
+216;tavaszi árpa;Kalium;2;igen jó;2,4
+217;tavaszi árpa;Kalium;6;közepes;3,5
+218;tavaszi árpa;Kalium;6;jó;3
+219;tavaszi árpa;Kalium;6;igen jó;2,2
+220;rozs;Nitrogen;4;igen gyenge;4,2
+221;rozs;Nitrogen;4;gyenge;4,1
+222;rozs;Nitrogen;4;közepes;4
+223;rozs;Nitrogen;4;jó;3
+224;rozs;Nitrogen;4;igen jó;2
+225;rozs;Nitrogen;6;igen gyenge;3,6
+226;rozs;Nitrogen;6;gyenge;3,4
+227;rozs;Nitrogen;6;közepes;3,2
+228;rozs;Nitrogen;6;jó;2,5
+229;rozs;Nitrogen;6;igen jó;1,9
+230;rozs;Foszfor;4;igen gyenge;3
+231;rozs;Foszfor;4;gyenge;2,7
+232;rozs;Foszfor;4;közepes;2,4
+233;rozs;Foszfor;4;jó;2
+234;rozs;Foszfor;4;igen jó;1,8
+235;rozs;Foszfor;6;igen gyenge;2,5
+236;rozs;Foszfor;6;gyenge;2,3
+237;rozs;Foszfor;6;közepes;2,1
+238;rozs;Foszfor;6;jó;1,7
+239;rozs;Foszfor;6;igen jó;1,1
+240;rozs;Kalium;4;igen gyenge;3,1
+241;rozs;Kalium;4;gyenge;2,9
+242;rozs;Kalium;4;közepes;2,6
+243;rozs;Kalium;4;jó;2,2
+244;rozs;Kalium;4;igen jó;1,5
+245;rozs;Kalium;6;igen gyenge;3,5
+246;rozs;Kalium;6;gyenge;3
+247;rozs;Kalium;6;közepes;2,4
+248;rozs;Kalium;6;jó;1,3
+249;rozs;Kalium;6;igen jó;0,8
+250;kukorica;Nitrogen;1;igen gyenge;3,3
+251;kukorica;Nitrogen;1;gyenge;3
+252;kukorica;Nitrogen;1;közepes;2,6
+253;kukorica;Nitrogen;1;jó;2
+254;kukorica;Nitrogen;1;igen jó;1,2
+255;kukorica;Nitrogen;2;igen gyenge;3,4
+256;kukorica;Nitrogen;2;gyenge;3,2
+257;kukorica;Nitrogen;2;közepes;2,8
+258;kukorica;Nitrogen;2;jó;2,2
+259;kukorica;Nitrogen;2;igen jó;1,4
+260;kukorica;Nitrogen;3;igen gyenge;3,5
+261;kukorica;Nitrogen;3;gyenge;3,3
+262;kukorica;Nitrogen;3;közepes;3
+263;kukorica;Nitrogen;3;jó;2,5
+264;kukorica;Nitrogen;3;igen jó;1,4
+265;kukorica;Nitrogen;4;igen gyenge;3,7
+266;kukorica;Nitrogen;4;gyenge;3,5
+267;kukorica;Nitrogen;4;közepes;3,2
+268;kukorica;Nitrogen;4;jó;2,5
+269;kukorica;Nitrogen;4;igen jó;1,9
+270;kukorica;Nitrogen;5;igen gyenge;3,6
+271;kukorica;Nitrogen;5;gyenge;3,3
+272;kukorica;Nitrogen;5;közepes;3
+273;kukorica;Nitrogen;5;jó;2,4
+274;kukorica;Nitrogen;5;igen jó;1,5
+275;kukorica;Nitrogen;6;igen gyenge;3,4
+276;kukorica;Nitrogen;6;gyenge;3,1
+277;kukorica;Nitrogen;6;közepes;2,8
+278;kukorica;Nitrogen;6;jó;2,4
+279;kukorica;Nitrogen;6;igen jó;1,7
+280;kukorica;Foszfor;1;igen gyenge;2,4
+281;kukorica;Foszfor;1;gyenge;2
+282;kukorica;Foszfor;1;közepes;1,6
+283;kukorica;Foszfor;1;jó;1,1
+284;kukorica;Foszfor;1;igen jó;0,5
+285;kukorica;Foszfor;2;igen gyenge;2,5
+286;kukorica;Foszfor;2;gyenge;2,2
+287;kukorica;Foszfor;2;közepes;1,8
+288;kukorica;Foszfor;2;jó;1,2
+289;kukorica;Foszfor;2;igen jó;0,7
+290;kukorica;Foszfor;3;igen gyenge;2,8
+291;kukorica;Foszfor;3;gyenge;2,4
+292;kukorica;Foszfor;3;közepes;2
+293;kukorica;Foszfor;3;jó;1,4
+294;kukorica;Foszfor;3;igen jó;0,6
+295;kukorica;Foszfor;4;igen gyenge;2,6
+296;kukorica;Foszfor;4;gyenge;2,3
+297;kukorica;Foszfor;4;közepes;1,9
+298;kukorica;Foszfor;4;jó;1,3
+299;kukorica;Foszfor;4;igen jó;0,5
+300;kukorica;Foszfor;5;igen gyenge;2,8
+301;kukorica;Foszfor;5;gyenge;2,5
+302;kukorica;Foszfor;5;közepes;2,1
+303;kukorica;Foszfor;5;jó;1,5
+304;kukorica;Foszfor;5;igen jó;0,8
+305;kukorica;Foszfor;6;igen gyenge;2,5
+306;kukorica;Foszfor;6;gyenge;2,2
+307;kukorica;Foszfor;6;közepes;1,8
+308;kukorica;Foszfor;6;jó;1,3
+309;kukorica;Foszfor;6;igen jó;0,7
+310;kukorica;Kalium;1;igen gyenge;3,1
+311;kukorica;Kalium;1;gyenge;2,8
+312;kukorica;Kalium;1;közepes;2,4
+313;kukorica;Kalium;1;jó;1,8
+314;kukorica;Kalium;1;igen jó;1
+315;kukorica;Kalium;2;igen gyenge;3,2
+316;kukorica;Kalium;2;gyenge;3
+317;kukorica;Kalium;2;közepes;2,6
+318;kukorica;Kalium;2;jó;2
+319;kukorica;Kalium;2;igen jó;1,1
+320;kukorica;Kalium;3;igen gyenge;3,2
+321;kukorica;Kalium;3;gyenge;2,8
+322;kukorica;Kalium;3;közepes;2,3
+323;kukorica;Kalium;3;jó;1,8
+324;kukorica;Kalium;3;igen jó;0,9
+325;kukorica;Kalium;4;igen gyenge;3,6
+326;kukorica;Kalium;4;gyenge;3,4
+327;kukorica;Kalium;4;közepes;3
+328;kukorica;Kalium;4;jó;2,4
+329;kukorica;Kalium;4;igen jó;1,3
+330;kukorica;Kalium;5;igen gyenge;3,3
+331;kukorica;Kalium;5;gyenge;3
+332;kukorica;Kalium;5;közepes;2,5
+333;kukorica;Kalium;5;jó;2,1
+334;kukorica;Kalium;5;igen jó;1,7
+335;kukorica;Kalium;6;igen gyenge;3,1
+336;kukorica;Kalium;6;gyenge;2,9
+337;kukorica;Kalium;6;közepes;2,5
+338;kukorica;Kalium;6;jó;2,2
+339;kukorica;Kalium;6;igen jó;1,1
+340;napraforgó;Nitrogen;1;igen gyenge;3
+341;napraforgó;Nitrogen;1;gyenge;2,8
+342;napraforgó;Nitrogen;1;közepes;2,5
+343;napraforgó;Nitrogen;1;jó;2
+344;napraforgó;Nitrogen;1;igen jó;1
+345;napraforgó;Nitrogen;2;igen gyenge;3
+346;napraforgó;Nitrogen;2;gyenge;2,8
+347;napraforgó;Nitrogen;2;közepes;2,5
+348;napraforgó;Nitrogen;2;jó;2,2
+349;napraforgó;Nitrogen;2;igen jó;1,3
+350;napraforgó;Nitrogen;3;igen gyenge;3,4
+351;napraforgó;Nitrogen;3;gyenge;3,1
+352;napraforgó;Nitrogen;3;közepes;2,5
+353;napraforgó;Nitrogen;3;jó;1,7
+354;napraforgó;Nitrogen;3;igen jó;0,8
+355;napraforgó;Nitrogen;4;igen gyenge;4
+356;napraforgó;Nitrogen;4;gyenge;3,8
+357;napraforgó;Nitrogen;4;közepes;3,6
+358;napraforgó;Nitrogen;4;jó;3,1
+359;napraforgó;Nitrogen;4;igen jó;2,4
+360;napraforgó;Nitrogen;5;igen gyenge;3,7
+361;napraforgó;Nitrogen;5;gyenge;3,4
+362;napraforgó;Nitrogen;5;közepes;3
+363;napraforgó;Nitrogen;5;jó;2,7
+364;napraforgó;Nitrogen;5;igen jó;2,5
+365;napraforgó;Nitrogen;6;igen gyenge;4,6
+366;napraforgó;Nitrogen;6;gyenge;4,4
+367;napraforgó;Nitrogen;6;közepes;4
+368;napraforgó;Nitrogen;6;jó;3,5
+369;napraforgó;Nitrogen;6;igen jó;2,5
+370;napraforgó;Foszfor;1;igen gyenge;6
+371;napraforgó;Foszfor;1;gyenge;4,8
+372;napraforgó;Foszfor;1;közepes;3,6
+373;napraforgó;Foszfor;1;jó;3
+374;napraforgó;Foszfor;1;igen jó;2
+375;napraforgó;Foszfor;2;igen gyenge;6,7
+376;napraforgó;Foszfor;2;gyenge;5,6
+377;napraforgó;Foszfor;2;közepes;4,4
+378;napraforgó;Foszfor;2;jó;3,2
+379;napraforgó;Foszfor;2;igen jó;2
+380;napraforgó;Foszfor;3;igen gyenge;7,6
+381;napraforgó;Foszfor;3;gyenge;6,3
+382;napraforgó;Foszfor;3;közepes;5,5
+383;napraforgó;Foszfor;3;jó;3,8
+384;napraforgó;Foszfor;3;igen jó;2,5
+385;napraforgó;Foszfor;4;igen gyenge;8
+386;napraforgó;Foszfor;4;gyenge;7,5
+387;napraforgó;Foszfor;4;közepes;7
+388;napraforgó;Foszfor;4;jó;6
+389;napraforgó;Foszfor;4;igen jó;4,2
+390;napraforgó;Foszfor;5;igen gyenge;8,5
+391;napraforgó;Foszfor;5;gyenge;7,2
+392;napraforgó;Foszfor;5;közepes;6
+393;napraforgó;Foszfor;5;jó;5
+394;napraforgó;Foszfor;5;igen jó;3,5
+395;napraforgó;Foszfor;6;igen gyenge;8,4
+396;napraforgó;Foszfor;6;gyenge;7,9
+397;napraforgó;Foszfor;6;közepes;7,4
+398;napraforgó;Foszfor;6;jó;6,8
+399;napraforgó;Foszfor;6;igen jó;4,5
+400;napraforgó;Kalium;1;igen gyenge;8,2
+401;napraforgó;Kalium;1;gyenge;6,8
+402;napraforgó;Kalium;1;közepes;4,4
+403;napraforgó;Kalium;1;jó;4
+404;napraforgó;Kalium;1;igen jó;3,8
+405;napraforgó;Kalium;2;igen gyenge;8
+406;napraforgó;Kalium;2;gyenge;6,5
+407;napraforgó;Kalium;2;közepes;5
+408;napraforgó;Kalium;2;jó;4,5
+409;napraforgó;Kalium;2;igen jó;4
+410;napraforgó;Kalium;3;igen gyenge;8,5
+411;napraforgó;Kalium;3;gyenge;7,8
+412;napraforgó;Kalium;3;közepes;6,5
+413;napraforgó;Kalium;3;jó;4,2
+414;napraforgó;Kalium;3;igen jó;2,9
+415;napraforgó;Kalium;4;igen gyenge;10,5
+416;napraforgó;Kalium;4;gyenge;10
+417;napraforgó;Kalium;4;közepes;9
+418;napraforgó;Kalium;4;jó;7,5
+419;napraforgó;Kalium;4;igen jó;5,5
+420;napraforgó;Kalium;5;igen gyenge;10
+421;napraforgó;Kalium;5;gyenge;8
+422;napraforgó;Kalium;5;közepes;7
+423;napraforgó;Kalium;5;jó;6,4
+424;napraforgó;Kalium;5;igen jó;6
+425;napraforgó;Kalium;6;igen gyenge;10
+426;napraforgó;Kalium;6;gyenge;9
+427;napraforgó;Kalium;6;közepes;8
+428;napraforgó;Kalium;6;jó;7
+429;napraforgó;Kalium;6;igen jó;5
+430;repce;Nitrogen;1;igen gyenge;6
+431;repce;Nitrogen;1;gyenge;5,4
+432;repce;Nitrogen;1;közepes;5
+433;repce;Nitrogen;1;jó;4,6
+434;repce;Nitrogen;1;igen jó;2,5
+435;repce;Nitrogen;2;igen gyenge;7,2
+436;repce;Nitrogen;2;gyenge;6,7
+437;repce;Nitrogen;2;közepes;6,2
+438;repce;Nitrogen;2;jó;5,8
+439;repce;Nitrogen;2;igen jó;3,5
+440;repce;Nitrogen;3;igen gyenge;5
+441;repce;Nitrogen;3;gyenge;4,5
+442;repce;Nitrogen;3;közepes;4
+443;repce;Nitrogen;3;jó;3
+444;repce;Nitrogen;3;igen jó;1
+445;repce;Nitrogen;4;igen gyenge;7
+446;repce;Nitrogen;4;gyenge;6,7
+447;repce;Nitrogen;4;közepes;6,4
+448;repce;Nitrogen;4;jó;6,1
+449;repce;Nitrogen;4;igen jó;4,1
+450;repce;Nitrogen;5;igen gyenge;7,2
+451;repce;Nitrogen;5;gyenge;5,8
+452;repce;Nitrogen;5;közepes;6,4
+453;repce;Nitrogen;5;jó;6
+454;repce;Nitrogen;5;igen jó;3,5
+455;repce;Nitrogen;6;igen gyenge;6,9
+456;repce;Nitrogen;6;gyenge;6,6
+457;repce;Nitrogen;6;közepes;6,3
+458;repce;Nitrogen;6;jó;6
+459;repce;Nitrogen;6;igen jó;4
+460;repce;Foszfor;1;igen gyenge;5
+461;repce;Foszfor;1;gyenge;4,5
+462;repce;Foszfor;1;közepes;4
+463;repce;Foszfor;1;jó;3,8
+464;repce;Foszfor;1;igen jó;3
+465;repce;Foszfor;2;igen gyenge;5
+466;repce;Foszfor;2;gyenge;4,5
+467;repce;Foszfor;2;közepes;4
+468;repce;Foszfor;2;jó;3,7
+469;repce;Foszfor;2;igen jó;3,4
+470;repce;Foszfor;3;igen gyenge;6,6
+471;repce;Foszfor;3;gyenge;5,6
+472;repce;Foszfor;3;közepes;5
+473;repce;Foszfor;3;jó;4,7
+474;repce;Foszfor;3;igen jó;3,9
+475;repce;Foszfor;4;igen gyenge;4,8
+476;repce;Foszfor;4;gyenge;4,2
+477;repce;Foszfor;4;közepes;4
+478;repce;Foszfor;4;jó;3,7
+479;repce;Foszfor;4;igen jó;2,4
+480;repce;Foszfor;5;igen gyenge;5,5
+481;repce;Foszfor;5;gyenge;5
+482;repce;Foszfor;5;közepes;4,8
+483;repce;Foszfor;5;jó;4,6
+484;repce;Foszfor;5;igen jó;3,4
+485;repce;Foszfor;6;igen gyenge;4,7
+486;repce;Foszfor;6;gyenge;4,1
+487;repce;Foszfor;6;közepes;3,8
+488;repce;Foszfor;6;jó;3,5
+489;repce;Foszfor;6;igen jó;2
+490;repce;Kalium;1;igen gyenge;5,6
+491;repce;Kalium;1;gyenge;4,8
+492;repce;Kalium;1;közepes;4
+493;repce;Kalium;1;jó;3
+494;repce;Kalium;1;igen jó;2
+495;repce;Kalium;2;igen gyenge;5,8
+496;repce;Kalium;2;gyenge;5,2
+497;repce;Kalium;2;közepes;4,6
+498;repce;Kalium;2;jó;3,9
+499;repce;Kalium;2;igen jó;3
+500;repce;Kalium;3;igen gyenge;7,4
+501;repce;Kalium;3;gyenge;5,8
+502;repce;Kalium;3;közepes;4,8
+503;repce;Kalium;3;jó;4,2
+504;repce;Kalium;3;igen jó;3,2
+505;repce;Kalium;4;igen gyenge;5,8
+506;repce;Kalium;4;gyenge;5,5
+507;repce;Kalium;4;közepes;5,2
+508;repce;Kalium;4;jó;4,4
+509;repce;Kalium;4;igen jó;3,2
+510;repce;Kalium;5;igen gyenge;5,8
+511;repce;Kalium;5;gyenge;4,8
+512;repce;Kalium;5;közepes;4,4
+513;repce;Kalium;5;jó;4
+514;repce;Kalium;5;igen jó;2,5
+515;repce;Kalium;6;igen gyenge;5,6
+516;repce;Kalium;6;gyenge;5,3
+517;repce;Kalium;6;közepes;5
+518;repce;Kalium;6;jó;4,2
+519;repce;Kalium;6;igen jó;3
+520;szója;Nitrogen;1;igen gyenge;7
+521;szója;Nitrogen;1;gyenge;6,6
+522;szója;Nitrogen;1;közepes;6
+523;szója;Nitrogen;1;jó;4,9
+524;szója;Nitrogen;1;igen jó;2,4
+525;szója;Nitrogen;2;igen gyenge;7,2
+526;szója;Nitrogen;2;gyenge;6,75
+527;szója;Nitrogen;2;közepes;6,2
+528;szója;Nitrogen;2;jó;5,5
+529;szója;Nitrogen;2;igen jó;3
+530;szója;Nitrogen;3;igen gyenge;7,5
+531;szója;Nitrogen;3;gyenge;7,25
+532;szója;Nitrogen;3;közepes;6,8
+533;szója;Nitrogen;3;jó;6
+534;szója;Nitrogen;3;igen jó;3,5
+535;szója;Foszfor;1;igen gyenge;6,2
+536;szója;Foszfor;1;gyenge;5,75
+537;szója;Foszfor;1;közepes;5,1
+538;szója;Foszfor;1;jó;4
+539;szója;Foszfor;1;igen jó;2
+540;szója;Foszfor;2;igen gyenge;6
+541;szója;Foszfor;2;gyenge;5,6
+542;szója;Foszfor;2;közepes;5
+543;szója;Foszfor;2;jó;4
+544;szója;Foszfor;2;igen jó;2
+545;szója;Foszfor;3;igen gyenge;6,4
+546;szója;Foszfor;3;gyenge;6
+547;szója;Foszfor;3;közepes;5,4
+548;szója;Foszfor;3;jó;4,4
+549;szója;Foszfor;3;igen jó;3
+550;szója;Kalium;1;igen gyenge;6,2
+551;szója;Kalium;1;gyenge;5,8
+552;szója;Kalium;1;közepes;5,2
+553;szója;Kalium;1;jó;4,2
+554;szója;Kalium;1;igen jó;2,2
+555;szója;Kalium;2;igen gyenge;6,5
+556;szója;Kalium;2;gyenge;6
+557;szója;Kalium;2;közepes;5,4
+558;szója;Kalium;2;jó;4,3
+559;szója;Kalium;2;igen jó;2,4
+560;szója;Kalium;3;igen gyenge;6
+561;szója;Kalium;3;gyenge;5,6
+562;szója;Kalium;3;közepes;5
+563;szója;Kalium;3;jó;4
+564;szója;Kalium;3;igen jó;2,6
+565;silókukorica;Nitrogen;1;igen gyenge;0,6
+566;silókukorica;Nitrogen;1;gyenge;0,55
+567;silókukorica;Nitrogen;1;közepes;0,47
+568;silókukorica;Nitrogen;1;jó;0,35
+569;silókukorica;Nitrogen;1;igen jó;0,25
+570;silókukorica;Nitrogen;2;igen gyenge;0,65
+571;silókukorica;Nitrogen;2;gyenge;0,6
+572;silókukorica;Nitrogen;2;közepes;0,52
+573;silókukorica;Nitrogen;2;jó;0,4
+574;silókukorica;Nitrogen;2;igen jó;0,3
+575;silókukorica;Nitrogen;3;igen gyenge;0,6
+576;silókukorica;Nitrogen;3;gyenge;0,55
+577;silókukorica;Nitrogen;3;közepes;0,45
+578;silókukorica;Nitrogen;3;jó;0,38
+579;silókukorica;Nitrogen;3;igen jó;0,25
+580;silókukorica;Nitrogen;4;igen gyenge;0,75
+581;silókukorica;Nitrogen;4;gyenge;0,65
+582;silókukorica;Nitrogen;4;közepes;0,55
+583;silókukorica;Nitrogen;4;jó;0,45
+584;silókukorica;Nitrogen;4;igen jó;0,35
+585;silókukorica;Nitrogen;5;igen gyenge;0,75
+586;silókukorica;Nitrogen;5;gyenge;0,65
+587;silókukorica;Nitrogen;5;közepes;0,45
+588;silókukorica;Nitrogen;5;jó;0,4
+589;silókukorica;Nitrogen;5;igen jó;0,3
+590;silókukorica;Nitrogen;6;igen gyenge;0,7
+591;silókukorica;Nitrogen;6;gyenge;0,6
+592;silókukorica;Nitrogen;6;közepes;0,5
+593;silókukorica;Nitrogen;6;jó;0,4
+594;silókukorica;Nitrogen;6;igen jó;0,3
+595;silókukorica;Foszfor;1;igen gyenge;0,35
+596;silókukorica;Foszfor;1;gyenge;0,3
+597;silókukorica;Foszfor;1;közepes;0,25
+598;silókukorica;Foszfor;1;jó;0,15
+599;silókukorica;Foszfor;1;igen jó;0,1
+600;silókukorica;Foszfor;2;igen gyenge;0,4
+601;silókukorica;Foszfor;2;gyenge;0,35
+602;silókukorica;Foszfor;2;közepes;0,3
+603;silókukorica;Foszfor;2;jó;0,2
+604;silókukorica;Foszfor;2;igen jó;0,1
+605;silókukorica;Foszfor;3;igen gyenge;0,3
+606;silókukorica;Foszfor;3;gyenge;0,25
+607;silókukorica;Foszfor;3;közepes;0,2
+608;silókukorica;Foszfor;3;jó;0,15
+609;silókukorica;Foszfor;3;igen jó;0,1
+610;silókukorica;Foszfor;4;igen gyenge;0,5
+611;silókukorica;Foszfor;4;gyenge;0,45
+612;silókukorica;Foszfor;4;közepes;0,35
+613;silókukorica;Foszfor;4;jó;0,25
+614;silókukorica;Foszfor;4;igen jó;0,15
+615;silókukorica;Foszfor;5;igen gyenge;0,5
+616;silókukorica;Foszfor;5;gyenge;0,45
+617;silókukorica;Foszfor;5;közepes;0,2
+618;silókukorica;Foszfor;5;jó;0,15
+619;silókukorica;Foszfor;5;igen jó;0,1
+620;silókukorica;Foszfor;6;igen gyenge;0,3
+621;silókukorica;Foszfor;6;gyenge;0,3
+622;silókukorica;Foszfor;6;közepes;0,25
+623;silókukorica;Foszfor;6;jó;0,2
+624;silókukorica;Foszfor;6;igen jó;0,15
+625;silókukorica;Kalium;1;igen gyenge;0,5
+626;silókukorica;Kalium;1;gyenge;0,45
+627;silókukorica;Kalium;1;közepes;0,36
+628;silókukorica;Kalium;1;jó;0,3
+629;silókukorica;Kalium;1;igen jó;0,2
+630;silókukorica;Kalium;2;igen gyenge;0,55
+631;silókukorica;Kalium;2;gyenge;0,5
+632;silókukorica;Kalium;2;közepes;0,45
+633;silókukorica;Kalium;2;jó;0,35
+634;silókukorica;Kalium;2;igen jó;0,25
+635;silókukorica;Kalium;3;igen gyenge;0,45
+636;silókukorica;Kalium;3;gyenge;0,4
+637;silókukorica;Kalium;3;közepes;0,32
+638;silókukorica;Kalium;3;jó;0,25
+639;silókukorica;Kalium;3;igen jó;0,2
+640;silókukorica;Kalium;4;igen gyenge;0,65
+641;silókukorica;Kalium;4;gyenge;0,6
+642;silókukorica;Kalium;4;közepes;0,55
+643;silókukorica;Kalium;4;jó;0,45
+644;silókukorica;Kalium;4;igen jó;0,3
+645;silókukorica;Kalium;5;igen gyenge;0,65
+646;silókukorica;Kalium;5;gyenge;0,6
+647;silókukorica;Kalium;5;közepes;0,45
+648;silókukorica;Kalium;5;jó;0,35
+649;silókukorica;Kalium;5;igen jó;0,15
+650;silókukorica;Kalium;6;igen gyenge;0,5
+651;silókukorica;Kalium;6;gyenge;0,5
+652;silókukorica;Kalium;6;közepes;0,45
+653;silókukorica;Kalium;6;jó;0,35
+654;silókukorica;Kalium;6;igen jó;0,2
+655;zab;Nitrogen;1;igen gyenge;3,2
+656;zab;Nitrogen;1;gyenge;3
+657;zab;Nitrogen;1;közepes;2,8
+658;zab;Nitrogen;1;jó;2,2
+659;zab;Nitrogen;1;igen jó;1,6
+660;zab;Nitrogen;2;igen gyenge;3,4
+661;zab;Nitrogen;2;gyenge;3,2
+662;zab;Nitrogen;2;közepes;3
+663;zab;Nitrogen;2;jó;2,2
+664;zab;Nitrogen;2;igen jó;1,6
+665;zab;Nitrogen;3;igen gyenge;3,2
+666;zab;Nitrogen;3;gyenge;3
+667;zab;Nitrogen;3;közepes;2,8
+668;zab;Nitrogen;3;jó;2,6
+669;zab;Nitrogen;3;igen jó;1,4
+670;zab;Nitrogen;4;igen gyenge;3,9
+671;zab;Nitrogen;4;gyenge;3,6
+672;zab;Nitrogen;4;közepes;3,3
+673;zab;Nitrogen;4;jó;3
+674;zab;Nitrogen;4;igen jó;1
+675;zab;Nitrogen;5;igen gyenge;3,9
+676;zab;Nitrogen;5;gyenge;3,6
+677;zab;Nitrogen;5;közepes;3,3
+678;zab;Nitrogen;5;jó;3
+679;zab;Nitrogen;5;igen jó;1
+680;zab;Nitrogen;6;igen gyenge;4,1
+681;zab;Nitrogen;6;gyenge;3,8
+682;zab;Nitrogen;6;közepes;3,5
+683;zab;Nitrogen;6;jó;3,2
+684;zab;Nitrogen;6;igen jó;1
+685;zab;Foszfor;1;igen gyenge;2,2
+686;zab;Foszfor;1;gyenge;2
+687;zab;Foszfor;1;közepes;1,8
+688;zab;Foszfor;1;jó;1,4
+689;zab;Foszfor;1;igen jó;0,7
+690;zab;Foszfor;2;igen gyenge;2,4
+691;zab;Foszfor;2;gyenge;2,2
+692;zab;Foszfor;2;közepes;2
+693;zab;Foszfor;2;jó;1,5
+694;zab;Foszfor;2;igen jó;0,7
+695;zab;Foszfor;3;igen gyenge;2,8
+696;zab;Foszfor;3;gyenge;2,6
+697;zab;Foszfor;3;közepes;2,4
+698;zab;Foszfor;3;jó;1,9
+699;zab;Foszfor;3;igen jó;1
+700;zab;Foszfor;4;igen gyenge;3,1
+701;zab;Foszfor;4;gyenge;2,9
+702;zab;Foszfor;4;közepes;2,7
+703;zab;Foszfor;4;jó;2,2
+704;zab;Foszfor;4;igen jó;1
+705;zab;Foszfor;5;igen gyenge;3,1
+706;zab;Foszfor;5;gyenge;2,9
+707;zab;Foszfor;5;közepes;2,7
+708;zab;Foszfor;5;jó;2,2
+709;zab;Foszfor;5;igen jó;1
+710;zab;Foszfor;6;igen gyenge;3
+711;zab;Foszfor;6;gyenge;2,7
+712;zab;Foszfor;6;közepes;2,5
+713;zab;Foszfor;6;jó;2
+714;zab;Foszfor;6;igen jó;0,7
+715;zab;Kalium;1;igen gyenge;3,5
+716;zab;Kalium;1;gyenge;3,2
+717;zab;Kalium;1;közepes;2,9
+718;zab;Kalium;1;jó;2,2
+719;zab;Kalium;1;igen jó;1,2
+720;zab;Kalium;2;igen gyenge;3,8
+721;zab;Kalium;2;gyenge;3,5
+722;zab;Kalium;2;közepes;3,2
+723;zab;Kalium;2;jó;2,5
+724;zab;Kalium;2;igen jó;1,6
+725;zab;Kalium;3;igen gyenge;4
+726;zab;Kalium;3;gyenge;3,7
+727;zab;Kalium;3;közepes;3,4
+728;zab;Kalium;3;jó;2,6
+729;zab;Kalium;3;igen jó;1,6
+730;zab;Kalium;4;igen gyenge;4,4
+731;zab;Kalium;4;gyenge;4,1
+732;zab;Kalium;4;közepes;3,8
+733;zab;Kalium;4;jó;3,1
+734;zab;Kalium;4;igen jó;2
+735;zab;Kalium;5;igen gyenge;4,4
+736;zab;Kalium;5;gyenge;4,1
+737;zab;Kalium;5;közepes;3,8
+738;zab;Kalium;5;jó;3,1
+739;zab;Kalium;5;igen jó;2
+740;zab;Kalium;6;igen gyenge;4,2
+741;zab;Kalium;6;gyenge;3,9
+742;zab;Kalium;6;közepes;3,6
+743;zab;Kalium;6;jó;2,7
+744;zab;Kalium;6;igen jó;1,6
+745;tritikálé;Nitrogen;1;igen gyenge;3,3
+746;tritikálé;Nitrogen;1;gyenge;3,1
+747;tritikálé;Nitrogen;1;közepes;2,8
+748;tritikálé;Nitrogen;1;jó;2,6
+749;tritikálé;Nitrogen;1;igen jó;2,4
+750;tritikálé;Nitrogen;2;igen gyenge;3,5
+751;tritikálé;Nitrogen;2;gyenge;3,3
+752;tritikálé;Nitrogen;2;közepes;3
+753;tritikálé;Nitrogen;2;jó;2,8
+754;tritikálé;Nitrogen;2;igen jó;2,6
+755;tritikálé;Nitrogen;3;igen gyenge;3,1
+756;tritikálé;Nitrogen;3;gyenge;2,9
+757;tritikálé;Nitrogen;3;közepes;2,6
+758;tritikálé;Nitrogen;3;jó;2,4
+759;tritikálé;Nitrogen;3;igen jó;2,1
+760;tritikálé;Nitrogen;4;igen gyenge;3,8
+761;tritikálé;Nitrogen;4;gyenge;3,6
+762;tritikálé;Nitrogen;4;közepes;3,3
+763;tritikálé;Nitrogen;4;jó;3,1
+764;tritikálé;Nitrogen;4;igen jó;2,8
+765;tritikálé;Nitrogen;5;igen gyenge;3,5
+766;tritikálé;Nitrogen;5;gyenge;3,3
+767;tritikálé;Nitrogen;5;közepes;3
+768;tritikálé;Nitrogen;5;jó;2,8
+769;tritikálé;Nitrogen;5;igen jó;2,6
+770;tritikálé;Nitrogen;6;igen gyenge;3,5
+771;tritikálé;Nitrogen;6;gyenge;3,3
+772;tritikálé;Nitrogen;6;közepes;3
+773;tritikálé;Nitrogen;6;jó;2,8
+774;tritikálé;Nitrogen;6;igen jó;2,6
+775;tritikálé;Foszfor;1;igen gyenge;1,7
+776;tritikálé;Foszfor;1;gyenge;1,4
+777;tritikálé;Foszfor;1;közepes;1,2
+778;tritikálé;Foszfor;1;jó;1,1
+779;tritikálé;Foszfor;1;igen jó;1
+780;tritikálé;Foszfor;2;igen gyenge;1,8
+781;tritikálé;Foszfor;2;gyenge;1,5
+782;tritikálé;Foszfor;2;közepes;1,3
+783;tritikálé;Foszfor;2;jó;1,2
+784;tritikálé;Foszfor;2;igen jó;1,1
+785;tritikálé;Foszfor;3;igen gyenge;2,1
+786;tritikálé;Foszfor;3;gyenge;1,8
+787;tritikálé;Foszfor;3;közepes;1,5
+788;tritikálé;Foszfor;3;jó;1,3
+789;tritikálé;Foszfor;3;igen jó;1,1
+790;tritikálé;Foszfor;4;igen gyenge;2,1
+791;tritikálé;Foszfor;4;gyenge;1,8
+792;tritikálé;Foszfor;4;közepes;1,5
+793;tritikálé;Foszfor;4;jó;1,3
+794;tritikálé;Foszfor;4;igen jó;1,2
+795;tritikálé;Foszfor;5;igen gyenge;2,1
+796;tritikálé;Foszfor;5;gyenge;1,8
+797;tritikálé;Foszfor;5;közepes;1,5
+798;tritikálé;Foszfor;5;jó;1,3
+799;tritikálé;Foszfor;5;igen jó;1,1
+800;tritikálé;Foszfor;6;igen gyenge;2,1
+801;tritikálé;Foszfor;6;gyenge;1,8
+802;tritikálé;Foszfor;6;közepes;1,5
+803;tritikálé;Foszfor;6;jó;1,3
+804;tritikálé;Foszfor;6;igen jó;1,1
+805;tritikálé;Kalium;1;igen gyenge;2,6
+806;tritikálé;Kalium;1;gyenge;2,4
+807;tritikálé;Kalium;1;közepes;3,1
+808;tritikálé;Kalium;1;jó;2
+809;tritikálé;Kalium;1;igen jó;1,9
+810;tritikálé;Kalium;2;igen gyenge;2,7
+811;tritikálé;Kalium;2;gyenge;2,5
+812;tritikálé;Kalium;2;közepes;2,2
+813;tritikálé;Kalium;2;jó;2,1
+814;tritikálé;Kalium;2;igen jó;2
+815;tritikálé;Kalium;3;igen gyenge;2,8
+816;tritikálé;Kalium;3;gyenge;2,6
+817;tritikálé;Kalium;3;közepes;2,4
+818;tritikálé;Kalium;3;jó;2,2
+819;tritikálé;Kalium;3;igen jó;2,1
+820;tritikálé;Kalium;4;igen gyenge;3,1
+821;tritikálé;Kalium;4;gyenge;2,9
+822;tritikálé;Kalium;4;közepes;2,6
+823;tritikálé;Kalium;4;jó;2,4
+824;tritikálé;Kalium;4;igen jó;2,3
+825;tritikálé;Kalium;5;igen gyenge;2,8
+826;tritikálé;Kalium;5;gyenge;2,6
+827;tritikálé;Kalium;5;közepes;2,4
+828;tritikálé;Kalium;5;jó;2,2
+829;tritikálé;Kalium;5;igen jó;2,1
+830;tritikálé;Kalium;6;igen gyenge;2,8
+831;tritikálé;Kalium;6;gyenge;2,6
+832;tritikálé;Kalium;6;közepes;2,4
+833;tritikálé;Kalium;6;jó;2,2
+834;tritikálé;Kalium;6;igen jó;2,1
+835;bíborhere;Nitrogen;2;igen gyenge;22
+836;bíborhere;Nitrogen;2;gyenge;20
+837;bíborhere;Nitrogen;2;közepes;17
+838;bíborhere;Nitrogen;2;jó;13
+839;bíborhere;Nitrogen;2;igen jó;10
+840;bíborhere;Nitrogen;3;igen gyenge;22
+841;bíborhere;Nitrogen;3;gyenge;20
+842;bíborhere;Nitrogen;3;közepes;17
+843;bíborhere;Nitrogen;3;jó;13
+844;bíborhere;Nitrogen;3;igen jó;10
+845;bíborhere;Nitrogen;6;igen gyenge;24
+846;bíborhere;Nitrogen;6;gyenge;23
+847;bíborhere;Nitrogen;6;közepes;20
+848;bíborhere;Nitrogen;6;jó;16
+849;bíborhere;Nitrogen;6;igen jó;12
+850;bíborhere;Foszfor;2;igen gyenge;16
+851;bíborhere;Foszfor;2;gyenge;14
+852;bíborhere;Foszfor;2;közepes;10
+853;bíborhere;Foszfor;2;jó;7
+854;bíborhere;Foszfor;2;igen jó;5
+855;bíborhere;Foszfor;3;igen gyenge;16
+856;bíborhere;Foszfor;3;gyenge;14
+857;bíborhere;Foszfor;3;közepes;10
+858;bíborhere;Foszfor;3;jó;7
+859;bíborhere;Foszfor;3;igen jó;5
+860;bíborhere;Foszfor;6;igen gyenge;21
+861;bíborhere;Foszfor;6;gyenge;18
+862;bíborhere;Foszfor;6;közepes;13
+863;bíborhere;Foszfor;6;jó;10
+864;bíborhere;Foszfor;6;igen jó;9
+865;bíborhere;Kalium;2;igen gyenge;24
+866;bíborhere;Kalium;2;gyenge;22
+867;bíborhere;Kalium;2;közepes;18
+868;bíborhere;Kalium;2;jó;14
+869;bíborhere;Kalium;2;igen jó;12
+870;bíborhere;Kalium;3;igen gyenge;24
+871;bíborhere;Kalium;3;gyenge;22
+872;bíborhere;Kalium;3;közepes;18
+873;bíborhere;Kalium;3;jó;14
+874;bíborhere;Kalium;3;igen jó;12
+875;bíborhere;Kalium;6;igen gyenge;23
+876;bíborhere;Kalium;6;gyenge;22
+877;bíborhere;Kalium;6;közepes;20
+878;bíborhere;Kalium;6;jó;16
+879;bíborhere;Kalium;6;igen jó;13
+880;lucerna;Nitrogen;1;igen gyenge;2,5
+881;lucerna;Nitrogen;1;gyenge;2
+882;lucerna;Nitrogen;1;közepes;1,6
+883;lucerna;Nitrogen;1;jó;1,2
+884;lucerna;Nitrogen;1;igen jó;0,6
+885;lucerna;Nitrogen;2;igen gyenge;2,7
+886;lucerna;Nitrogen;2;gyenge;2,1
+887;lucerna;Nitrogen;2;közepes;1,7
+888;lucerna;Nitrogen;2;jó;1,4
+889;lucerna;Nitrogen;2;igen jó;0,7
+890;lucerna;Nitrogen;3;igen gyenge;2,6
+891;lucerna;Nitrogen;3;gyenge;2
+892;lucerna;Nitrogen;3;közepes;1,7
+893;lucerna;Nitrogen;3;jó;1,4
+894;lucerna;Nitrogen;3;igen jó;0,7
+895;lucerna;Nitrogen;4;igen gyenge;3
+896;lucerna;Nitrogen;4;gyenge;2,4
+897;lucerna;Nitrogen;4;közepes;1,9
+898;lucerna;Nitrogen;4;jó;1,6
+899;lucerna;Nitrogen;4;igen jó;1,1
+900;lucerna;Nitrogen;5;igen gyenge;2,8
+901;lucerna;Nitrogen;5;gyenge;2,2
+902;lucerna;Nitrogen;5;közepes;1,8
+903;lucerna;Nitrogen;5;jó;1,5
+904;lucerna;Nitrogen;5;igen jó;0,9
+905;lucerna;Nitrogen;6;igen gyenge;2,7
+906;lucerna;Nitrogen;6;gyenge;2,3
+907;lucerna;Nitrogen;6;közepes;2
+908;lucerna;Nitrogen;6;jó;1,7
+909;lucerna;Nitrogen;6;igen jó;1,3
+910;lucerna;Foszfor;1;igen gyenge;1,6
+911;lucerna;Foszfor;1;gyenge;1,4
+912;lucerna;Foszfor;1;közepes;1,1
+913;lucerna;Foszfor;1;jó;0,8
+914;lucerna;Foszfor;1;igen jó;0,4
+915;lucerna;Foszfor;2;igen gyenge;1,5
+916;lucerna;Foszfor;2;gyenge;1,3
+917;lucerna;Foszfor;2;közepes;1,1
+918;lucerna;Foszfor;2;jó;0,7
+919;lucerna;Foszfor;2;igen jó;0,4
+920;lucerna;Foszfor;3;igen gyenge;1,8
+921;lucerna;Foszfor;3;gyenge;1,6
+922;lucerna;Foszfor;3;közepes;1,3
+923;lucerna;Foszfor;3;jó;0,9
+924;lucerna;Foszfor;3;igen jó;0,5
+925;lucerna;Foszfor;4;igen gyenge;1,6
+926;lucerna;Foszfor;4;gyenge;1,4
+927;lucerna;Foszfor;4;közepes;1,1
+928;lucerna;Foszfor;4;jó;0,8
+929;lucerna;Foszfor;4;igen jó;0,4
+930;lucerna;Foszfor;5;igen gyenge;1,6
+931;lucerna;Foszfor;5;gyenge;1,4
+932;lucerna;Foszfor;5;közepes;1,25
+933;lucerna;Foszfor;5;jó;0,9
+934;lucerna;Foszfor;5;igen jó;0,5
+935;lucerna;Foszfor;6;igen gyenge;1,5
+936;lucerna;Foszfor;6;gyenge;1,4
+937;lucerna;Foszfor;6;közepes;1,2
+938;lucerna;Foszfor;6;jó;0,9
+939;lucerna;Foszfor;6;igen jó;0,4
+940;lucerna;Kalium;1;igen gyenge;2,1
+941;lucerna;Kalium;1;gyenge;2
+942;lucerna;Kalium;1;közepes;1,8
+943;lucerna;Kalium;1;jó;1,4
+944;lucerna;Kalium;1;igen jó;0,6
+945;lucerna;Kalium;2;igen gyenge;2,2
+946;lucerna;Kalium;2;gyenge;2
+947;lucerna;Kalium;2;közepes;1,7
+948;lucerna;Kalium;2;jó;1,4
+949;lucerna;Kalium;2;igen jó;0,7
+950;lucerna;Kalium;3;igen gyenge;2
+951;lucerna;Kalium;3;gyenge;1,8
+952;lucerna;Kalium;3;közepes;1,5
+953;lucerna;Kalium;3;jó;1,2
+954;lucerna;Kalium;3;igen jó;0,5
+955;lucerna;Kalium;4;igen gyenge;2,1
+956;lucerna;Kalium;4;gyenge;2
+957;lucerna;Kalium;4;közepes;1,8
+958;lucerna;Kalium;4;jó;1,45
+959;lucerna;Kalium;4;igen jó;0,8
+960;lucerna;Kalium;5;igen gyenge;2
+961;lucerna;Kalium;5;gyenge;1,9
+962;lucerna;Kalium;5;közepes;1,7
+963;lucerna;Kalium;5;jó;1,35
+964;lucerna;Kalium;5;igen jó;0,7
+965;lucerna;Kalium;6;igen gyenge;2
+966;lucerna;Kalium;6;gyenge;1,9
+967;lucerna;Kalium;6;közepes;1,7
+968;lucerna;Kalium;6;jó;1,35
+969;lucerna;Kalium;6;igen jó;0,8
