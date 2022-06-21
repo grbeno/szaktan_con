@@ -1,4 +1,5 @@
 __pycache__/
+szaktan.db
 
 # ignore the folder of exe-s
 output/
