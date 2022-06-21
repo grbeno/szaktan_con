@@ -1,5 +1,11 @@
-import sqlite3, os, time
-import csvjob, szamitasok, szaktan_pdf #, fix_tablak # saját
+import sqlite3
+import os
+import time
+# saját
+import csvjob
+import szamitasok
+import szaktan_pdf 
+#import fix_tablak 
 
 """ 0. START - """
 

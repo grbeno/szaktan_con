@@ -1,4 +1,5 @@
-import sqlite3, os
+import sqlite3
+import os
 import csvjob
 
 """ FIX - nem változó ADATTÁBLÁK FELVITELE """
