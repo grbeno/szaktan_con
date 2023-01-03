@@ -12,6 +12,8 @@ This is a Python and Sql based nutrition management software for hungarian soil 
 
 ```$ pipenv shell```
 
+```$ pipenv install -r requirements.txt```
+
 ```$ python szaktan_con.py```
 
 Az eredmények a Szaktan_eredmények mappában!

@@ -1,0 +1,2 @@
+INFO:
+Szaktan_eredmenyek/ és szaktan.db törölhető.
