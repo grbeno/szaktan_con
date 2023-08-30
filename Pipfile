@@ -4,8 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-reportlab = "*"
 pillow = "*"
+reportlab = "==3.6.13"
 
 [dev-packages]
 
